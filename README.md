@@ -5,8 +5,8 @@ B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_
 ## 使用方法
 ### 直接运行
 对应自己的系统，直接下载编译好的发行文件，运行即可;
-### 从编译运行
-#### Windows
+### 从源代码运行
+#### 一.Windows
 1.下载源码
 2.确保自己的系统装有Python,打开cmd,输入下面代码检查
 ~~~
@@ -14,5 +14,6 @@ python -verson
 ~~~
 3.安装依赖
 ~~~
-pip install 
+pip install webbrowser
 ~~~
+
