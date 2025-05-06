@@ -10,7 +10,11 @@ B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_
 1.下载源码
 2.确保自己的系统装有Python,打开cmd,输入下面代码检查
 ~~~
-python -verson
+python -V
+~~~
+部分系统需使用一下代码
+~~~
+python3 -V
 ~~~
 3.安装依赖
 ~~~
