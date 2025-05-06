@@ -20,4 +20,4 @@ python3 -V
 ~~~
 pip install webbrowser
 ~~~
-
+4.双击使用即可
