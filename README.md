@@ -34,5 +34,5 @@ pip install webbrowser
 解码手表绑定码即可获得  
 可通过下网站解码
 [草料二维码解码器](https://cli.im/deqr)  
-解码示范  http://baby.360.cn/wap/index.html?qr=xxxxxxxxxxxxxxxx&c=xxxxxxxxxxxxxxxx&t=W920P  
+解码示范  'http://baby.360.cn/wap/index.html?qr=xxxxxxxxxxxxxxxx&c=xxxxxxxxxxxxxxxx&t=W920P'  
 其中"qr=xxxxxxxxxxxxxxxx"即是(应该，我再找不到二维码了)
