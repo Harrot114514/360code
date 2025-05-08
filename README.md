@@ -24,6 +24,6 @@ pip install webbrowser
 ## 页面介绍&数据获取方法
 一.IMEI
 在手表设置内的关于界面即可找到
-![步骤一]( "步骤一")
+![步骤一](https://github.com/Harrot114514/360code/blob/main/photos/IMG_20250508_222149.jpg "步骤一")
 ![步骤二]( "步骤二")
 ![步骤三]( "步骤三")
