@@ -1,6 +1,7 @@
-33# 360code
+# 360code
 A debug mode password generator tool for "360 kids watch".<p>
 一个“360儿童手表”的调试模式密码生成工具<p>
+20# 一定看完简介
 B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_id_from=333.1007.0.0)
 ## 使用方法
 ### 直接运行
@@ -35,4 +36,4 @@ pip install webbrowser
 可通过下网站解码
 [草料二维码解码器](https://cli.im/deqr)  
 解码示范  'http://baby.360.cn/wap/index.html?qr=xxxxxxxxxxxxxxxx&c=xxxxxxxxxxxxxxxx&t=W920P'  
-其中"qr=xxxxxxxxxxxxxxxx"即是(应该，我再找不到二维码了)
+其中"qr=xxxxxxxxxxxxxxxx"即是(应该，我再找不到二维码了，并且解码内容固定)
