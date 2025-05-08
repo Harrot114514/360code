@@ -1,4 +1,4 @@
-# 360code
+3# 360code
 A debug mode password generator tool for "360 kids watch".<p>
 一个“360儿童手表”的调试模式密码生成工具<p>
 B站主页:[不会起名的萝卜君](https://space.bilibili.com/1732976071?spm_id_from=333.1007.0.0)
@@ -21,3 +21,9 @@ python3 -V
 pip install webbrowser
 ~~~
 4.双击使用即可
+## 页面介绍&数据获取方法
+一.IMEI
+在手表设置内的关于界面即可找到
+![步骤一]( "步骤一")
+![步骤二]( "步骤二")
+![步骤三]( "步骤三")
