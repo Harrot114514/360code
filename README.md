@@ -36,4 +36,5 @@ pip install webbrowser
 可通过下网站解码
 [草料二维码解码器](https://cli.im/deqr)  
 解码示范  'http://baby.360.cn/wap/index.html?qr=xxxxxxxxxxxxxxxx&c=xxxxxxxxxxxxxxxx&t=W920P'  
-其中"qr=xxxxxxxxxxxxxxxx"即是(应该，我再找不到二维码了，并且解码内容固定)
+其中"qr=xxxxxxxxxxxxxxxx"即是(应该，我再找不到二维码了，并且解码内容固定)  
+其他暂未研究清楚......
