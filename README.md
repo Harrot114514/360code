@@ -32,7 +32,7 @@ pip install webbrowser
 ![步骤二](https://github.com/Harrot114514/360code/blob/main/photos/IMG_20250508_222233.jpg "步骤二")
 ![步骤三](https://github.com/Harrot114514/360code/blob/main/photos/IMG_20250508_222311.jpg "步骤三")
 #### 二.QRCode
-解码手表绑定码即可获得  
+解码手表绑定二维码即可获得  
 可通过下网站解码
 [草料二维码解码器](https://cli.im/deqr)  
 解码示范  'http://baby.360.cn/wap/index.html?qr=xxxxxxxxxxxxxxxx&c=xxxxxxxxxxxxxxxx&t=W920P'  
