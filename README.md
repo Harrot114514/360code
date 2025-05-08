@@ -25,5 +25,5 @@ pip install webbrowser
 一.IMEI
 在手表设置内的关于界面即可找到
 ![步骤一](https://github.com/Harrot114514/360code/blob/main/photos/IMG_20250508_222149.jpg "步骤一")
-![步骤二]( "步骤二")
-![步骤三]( "步骤三")
+![步骤二](https://github.com/Harrot114514/360code/blob/main/photos/IMG_20250508_222233.jpg "步骤二")
+![步骤三](https://github.com/Harrot114514/360code/blob/main/photos/IMG_20250508_222311.jpg "步骤三")
