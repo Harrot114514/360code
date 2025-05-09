@@ -19,7 +19,7 @@ python3 -V
 ~~~
 3.安装依赖
 ~~~
-pip install webbrowser
+pip install cryptography
 ~~~
 4.双击使用即可
 ## 页面介绍&数据获取方法
