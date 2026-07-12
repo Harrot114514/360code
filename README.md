@@ -41,5 +41,6 @@ pip install cryptography
 直接就在DevelopModeHelper这个类，是
 ~~~
 eip97324acpamzbv
-~~~(新版旧版我看了都是这个)
+~~~
+(新版旧版我看了都是这个)
 # 其他正在研究
