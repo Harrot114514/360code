@@ -37,4 +37,7 @@ pip install cryptography
 [草料二维码解码器](https://cli.im/deqr)  
 解码示范  'http://baby.360.cn/wap/index.html?qr=xxxxxxxxxxxxxxxx&c=xxxxxxxxxxxxxxxx&t=W920P'  
 其中"qr=xxxxxxxxxxxxxxxx"即是(应该，我再找不到二维码了，并且解码内容固定)  
+#### 三.HardCore
+直接就在DevelopModeHelper这个类，是
+'eip97324acpamzbv'(新版旧版我看了都是这个)
 # 其他正在研究
