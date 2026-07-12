@@ -43,4 +43,6 @@ pip install cryptography
 eip97324acpamzbv
 ~~~
 (新版旧版我看了都是这个)
+#### 四.DeviceId
+就是设备序列号
 # 其他正在研究
