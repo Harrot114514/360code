@@ -38,9 +38,9 @@ pip install cryptography
 解码示范  'http://baby.360.cn/wap/index.html?qr=xxxxxxxxxxxxxxxx&c=xxxxxxxxxxxxxxxx&t=W920P'  
 其中"qr=xxxxxxxxxxxxxxxx"即是(应该，我再找不到二维码了，并且解码内容固定)  
 #### 三.HardCore
-直接就在DevelopModeHelper这个类
-其实就是所谓的工厂模式(factory_mode_code)与开发者模式(develop_mode_code)的选择，在软件1.2.0版本已修正
-(新版旧版我看了都是这个，不会变)
+存在于系统服务，电脑不在，暂未查明(下周考完试再看)
 #### 四.DeviceId
-就是设备序列号
+大概率就是设备序列号
+#### 五.DeviceKey
+计算时无论如何都需要，与"三"原因一样，暂未查明
 # 其他正在研究
